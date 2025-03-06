@@ -41,7 +41,7 @@ paginated, and edited.
 
 ## Potential Improvements if More Time Was Available
 1️. Enhancing UI with TailwindCSS
-   - Learning how to install and configure TailwindCSS  
+   - Learning how to install and utilize TailwindCSS  
    - Improving the design and responsiveness for better user experience  
 
 2️. Implementing Dark Mode
