@@ -52,6 +52,6 @@ paginated, and edited.
    - Adding caching and background refetching to improve performance  
 
 4️. Using Redux for State Management  
-   -Learning how to connect the Firebase for log in / log out feature 
+   - Learning how to connect the Firebase for log in / log out feature 
    - Adding form validation when editing user details  
    - Improving error handling and loading states  
