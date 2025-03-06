@@ -10,7 +10,7 @@ Search functionality to filter users by name.
 Edit user information (name & status).  
 Pagination for better user experience.  
 Implement debounce (300ms delay) for optimized searching.
-Modern UI with responsive design.
+
 
 
 ## Designed Strucutre
