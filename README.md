@@ -45,19 +45,13 @@ paginated, and edited.
    - Improving the design and responsiveness for better user experience  
 
 2️. Implementing Dark Mode
-   - Adding a toggle button to switch between Light and Dark themes  
-   - Saving the theme preference in `localStorage`  
+   - Adding a toggle button to switch between Light and Dark themes   
 
 3️. Optimizing Data Fetching with React Query or SWR
-   - Implementing React Query or SWR for better API data handling  
+   - Learning how to implement React Query or SWR for better API data handling  
    - Adding caching and background refetching to improve performance  
 
 4️. Using Redux for State Management  
-   - Managing global state with Redux instead of using local state (`useState`)  
-   - Learning best practices for Redux setup in a React project  
-
-5️. Adding More Features**  
-   - Implementing sorting and advanced filtering for users
-   - Learn how to connect the Firebase for log in / log out feature 
+   -Learning how to connect the Firebase for log in / log out feature 
    - Adding form validation when editing user details  
    - Improving error handling and loading states  
