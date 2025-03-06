@@ -12,6 +12,7 @@ paginated, and edited.
 ✅ Implement debounce (300ms delay) for optimized searching.
 ✅ Modern UI with responsive design.
 
+
 ## Designed Strucutre
 📦 dashboard-user
 
