@@ -14,12 +14,19 @@ paginated, and edited.
 
 ## Designed Strucutre
 📦 dashboard-user
+
  ┣ 📂 src
+ 
  ┃ ┣ 📂 components
+ 
  ┃ ┃ ┣ 📜 UserList.js
+ 
  ┃ ┃ ┣ 📜 UserEdit.js
+ 
  ┃ ┃ ┣ 📜 UserList.css
+ 
  ┃ ┣ 📜 App.js
+ 
  ┃ ┣ 📜 index.js
 
  ## Time Spent on the Project
