@@ -25,6 +25,8 @@ paginated, and edited.
  
  ┃ ┃ ┣ 📜 UserList.css
  
+ ┃ ┃ ┣ 📜 UserEdit.css
+ 
  ┃ ┣ 📜 App.js
  
  ┃ ┣ 📜 index.js
